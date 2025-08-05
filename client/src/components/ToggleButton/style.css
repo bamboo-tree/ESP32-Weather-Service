@@ -1,0 +1,18 @@
+button {
+  padding: 0.3em;
+  margin: 0;
+  background-color: black;
+  font-size: 1.2em;
+  border: none;
+  border-radius: 0.5em;
+}
+
+.on {
+  transition: 0.1s;
+  background-color: #3772ff;
+}
+
+.off {
+  transition: 0.1s;
+  background-color: #df2935;
+}
